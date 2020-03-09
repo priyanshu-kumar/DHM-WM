@@ -1,0 +1,4 @@
+Traceback (most recent call last):
+  File "base.py", line 9, in <module>
+  File "pygeoprocessing\__init__.pyc", line 4, in <module>
+ImportError: No module named natcap.versioner

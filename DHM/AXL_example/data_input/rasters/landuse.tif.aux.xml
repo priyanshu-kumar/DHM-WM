@@ -1,0 +1,107 @@
+<PAMDataset>
+  <Metadata>
+    <MDI key="DataType">Generic</MDI>
+  </Metadata>
+  <Metadata domain="Esri">
+    <MDI key="PyramidResamplingType">NEAREST</MDI>
+  </Metadata>
+  <PAMRasterBand band="1">
+    <Histograms>
+      <HistItem>
+        <HistMin>-0.5</HistMin>
+        <HistMax>87.5</HistMax>
+        <BucketCount>88</BucketCount>
+        <IncludeOutOfRange>1</IncludeOutOfRange>
+        <Approximate>0</Approximate>
+        <HistCounts>0|93812|0|0|0|166084|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|36590|0|0|0|0|0|0|0|0|0|0|0|3402|0|0|0|0|0|0|0|15|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|106|52837|40629|90|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|0|23300|914|0|0|0|13494</HistCounts>
+      </HistItem>
+    </Histograms>
+    <GDALRasterAttributeTable>
+      <FieldDefn index="0">
+        <Name>Rowid</Name>
+        <Type>0</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <FieldDefn index="1">
+        <Name>VALUE</Name>
+        <Type>0</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <FieldDefn index="2">
+        <Name>COUNT</Name>
+        <Type>0</Type>
+        <Usage>0</Usage>
+      </FieldDefn>
+      <Row index="0">
+        <F>0</F>
+        <F>1</F>
+        <F>93812</F>
+      </Row>
+      <Row index="1">
+        <F>1</F>
+        <F>5</F>
+        <F>166084</F>
+      </Row>
+      <Row index="2">
+        <F>2</F>
+        <F>24</F>
+        <F>36590</F>
+      </Row>
+      <Row index="3">
+        <F>3</F>
+        <F>36</F>
+        <F>3402</F>
+      </Row>
+      <Row index="4">
+        <F>4</F>
+        <F>44</F>
+        <F>15</F>
+      </Row>
+      <Row index="5">
+        <F>5</F>
+        <F>61</F>
+        <F>106</F>
+      </Row>
+      <Row index="6">
+        <F>6</F>
+        <F>62</F>
+        <F>52837</F>
+      </Row>
+      <Row index="7">
+        <F>7</F>
+        <F>63</F>
+        <F>40629</F>
+      </Row>
+      <Row index="8">
+        <F>8</F>
+        <F>64</F>
+        <F>90</F>
+      </Row>
+      <Row index="9">
+        <F>9</F>
+        <F>82</F>
+        <F>23300</F>
+      </Row>
+      <Row index="10">
+        <F>10</F>
+        <F>83</F>
+        <F>914</F>
+      </Row>
+      <Row index="11">
+        <F>11</F>
+        <F>87</F>
+        <F>13494</F>
+      </Row>
+    </GDALRasterAttributeTable>
+    <Metadata>
+      <MDI key="STATISTICS_MINIMUM">1</MDI>
+      <MDI key="STATISTICS_MAXIMUM">87</MDI>
+      <MDI key="STATISTICS_MEAN">25.352180637323</MDI>
+      <MDI key="STATISTICS_STDDEV">29.792467394924</MDI>
+      <MDI key="STATISTICS_SKIPFACTORX">1</MDI>
+      <MDI key="STATISTICS_SKIPFACTORY">1</MDI>
+      <MDI key="STATISTICS_EXCLUDEDVALUES"></MDI>
+      <MDI key="STATISTICS_COVARIANCES">887.591113477619</MDI>
+    </Metadata>
+  </PAMRasterBand>
+</PAMDataset>

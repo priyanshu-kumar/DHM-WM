@@ -1,0 +1,1 @@
+201801081046   0     0     0Dell D:\DHM-WM\LREW_example\data_input\rasters\soil = SELECTMASK(H:\LREW\data_input\grids\soil_i_s, D:\DHM-WM\LREW_example\data_input\rasters\fdr.tif)
